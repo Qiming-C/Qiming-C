@@ -1,5 +1,5 @@
-### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Qiming-C&&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### - 🔭 Currently Learning Flink and Kafka...
+[![Qiming's github stats](https://github-readme-stats.vercel.app/api?username=Qiming-C&&theme=dark&show_icons=true)]
 
 
 
