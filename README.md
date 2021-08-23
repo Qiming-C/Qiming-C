@@ -4,7 +4,7 @@
 <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gtr76gr003j60bp0bpjrj02.jpg" alt="avatar" style="zoom:50%; align=right;"/>
 
 
-<a href="https://discordapp.com/users/701972260285841418"><img align="left" alt="Qiming's Discord" width="30px" src="https://tva1.sinaimg.cn/large/008i3skNgy1gtr6zv0xb4j600o00o0i102.jpg"/></a><a href="https://www.linkedin.com/in/qiming-chen-39a7a71b4/"><img align="left" alt="Qiming's Linkedin" width="30px" src="https://img.icons8.com/ios/50/000000/linkedin.png"/></a><a href="https://https://qiming-c.github.io"><img align="left" alt="Qiming's Github" width="30px" src="https://img.icons8.com/ios-filled/30/000000/github.png"/></a> [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<a href="https://discordapp.com/users/701972260285841418"><img align="left" alt="Qiming's Discord" width="30px" src="https://tva1.sinaimg.cn/large/008i3skNgy1gtr6zv0xb4j600o00o0i102.jpg"/></a><a href="https://www.linkedin.com/in/qiming-chen-39a7a71b4/"><img align="left" alt="Qiming's Linkedin" width="30px" src="https://img.icons8.com/ios/50/000000/linkedin.png"/></a><a href="https://qiming-c.github.io"><img align="left" alt="Qiming's Github" width="30px" src="https://img.icons8.com/ios-filled/30/000000/github.png"/></a> [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 ------
 
