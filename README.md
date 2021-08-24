@@ -11,7 +11,8 @@
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
 
 ------
-![Qiming's github stats](https://github-readme-stats.vercel.app/api?username=Qiming-C&show_icons=true&hide_border=true)
+![Qiming's github stats](https://github-readme-stats.vercel.app/api?username=Qiming-C&show_icons=true&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qiming-C&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ### ⚡️**Languages and tools:**<br/><br/>   [![java](https://img.shields.io/badge/--E76F00?logo=java&logoColor=ffffff)](http://www.java.com/) [![javascript](https://img.shields.io/badge/--F05032?logo=javascript&logoColor=ffffff)](http://www.javascript.com/) [![typescript](https://img.shields.io/badge/--2F74C0?logo=typescript&logoColor=ffffff)](http://www.typescript.com/) [![react](https://img.shields.io/badge/--61DAFB?logo=react&logoColor=ffffff)](http://reactjs.com/) [![c++](https://img.shields.io/badge/--6195CC?logo=CPLUSPLUS&logoColor=ffffff)](http://www.cplusplus.com/) [![angular](https://img.shields.io/badge/--F05032?logo=angular&logoColor=ffffff)](http://angular.io/) [![nestjs](https://img.shields.io/badge/--F05032?logo=nestjs&logoColor=ffffff)](http://nestjs.com/) [![spring](https://img.shields.io/badge/--13AA53?logo=springboot&logoColor=ffffff)](http://spring.io/) [![mongo](https://img.shields.io/badge/--13AA53?logo=mongoDB&logoColor=ffffff)](http://www.mongodb.com/) [![typora](https://img.shields.io/badge/--000000?logo=markdown&logoColor=ffffff)](http://typora.io/)
